@@ -80,6 +80,9 @@ cargo run -- list
 ```bash
 cargo run -- history
 # Menampilkan riwayat yang tersimpan di conversion.json
+# Riwayat Konversi:
+# 1. 100 °C = 212.0000 °F
+# 2. 16000 cm = 0.1600 km
 ```
 
 **Contoh validasi**
