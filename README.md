@@ -73,6 +73,14 @@ cargo run -- convert --from cm --to km --value 16000
 ```bash
 cargo run -- list
 # Menampilkan: celsius, fahrenheit, kelvin, cm, inch, km, miles
+# Satuan yang didukung:
+# 1. [suhu] celsius
+# 2. [suhu] fahrenheit
+# 3. [suhu] kelvin
+# 4. [panjang] cm
+# 5. [panjang] inch
+# 6. [panjang] km
+# 7. [panjang] miles
 ```
 
 **Riwayat Konversi**
