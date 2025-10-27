@@ -142,7 +142,7 @@ Tambahkan test sederhana untuk fungsi konversi agar integrasi mudah diverifikasi
 ## 📬 Kontak
 
 Jika ada fitur yang ingin ditambahkan atau bug, buka *issue* di repo:
-[https://github.com/achmadichzan/unitconv/issues](https://github.com/achmadichzan/unit-converter/issues)
+[https://github.com/achmadichzan/unit-converter/issues](https://github.com/achmadichzan/unit-converter/issues)
 
 ---
 
